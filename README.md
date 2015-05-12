@@ -1,5 +1,4 @@
 {
-    
     "name": "App name",
     "description": "Describe the app in a sentence or two",
     "version": "0.7",
